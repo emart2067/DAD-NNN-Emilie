@@ -128,10 +128,12 @@ https://editor.p5js.org/emart2067/full/S-LuYrpSN
 =>Présentation des différents visuels 3D sous forme de trois séries réalisées au plotter, peinture en spray.
 =>Création de musiques instrumentale prompté sur SUNO.
 
+
 26/11/2024
 
 =>Création de nouveaux visuels 3D sur P5.js.
 https://editor.p5js.org/emart2067/full/cFnGKm47c
+![IMG_3155](https://github.com/user-attachments/assets/80bb9fc4-93de-4f40-a0d4-025e7b442802)
 
 
 
