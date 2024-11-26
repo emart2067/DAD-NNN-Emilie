@@ -106,4 +106,25 @@ https://editor.p5js.org/emart2067/full/9tEBBs0m-
 https://editor.p5js.org/emart2067/full/FnJO-PPWq
 https://editor.p5js.org/emart2067/full/8iuVHrO1Z
 
+18/11/2024
+
+=>Création de nouveaux visuels 3D sur P5.js.
+https://editor.p5js.org/emart2067/full/a9IS5Bg4J
+https://editor.p5js.org/emart2067/full/gcesovsfF
+https://editor.p5js.org/emart2067/full/63KrYXYk6T
+https://editor.p5js.org/emart2067/full/Qvh2YFErC
+https://editor.p5js.org/emart2067/full/RtUamDa8cJ
+
+19/11/2024
+
+=>Création de nouveaux visuels 3D sur P5.js.
+https://editor.p5js.org/emart2067/full/Kpi6pT2xF
+https://editor.p5js.org/emart2067/full/S-LuYrpSN
+
+25/11/2024
+
+=>Création de nouveaux visuels 3D sur P5.js.
+Graceful jet
+
+
 
