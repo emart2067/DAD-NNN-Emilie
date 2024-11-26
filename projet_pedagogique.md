@@ -132,7 +132,7 @@ https://emart2067.github.io/vibration_2/
 https://emart2067.github.io/vibration_3/
 https://emart2067.github.io/vibration_4/
 
-<img src="https://github.com/user-attachments/assets/80bb9fc4-93de-4f40-a0d4-025e7b442802" data-canonical-src="https://github.com/user-attachments/assets/80bb9fc4-93de-4f40-a0d4-025e7b442802" width="600" />
+<img src="https://github.com/user-attachments/assets/80bb9fc4-93de-4f40-a0d4-025e7b442802" data-canonical-src="https://github.com/user-attachments/assets/80bb9fc4-93de-4f40-a0d4-025e7b442802" width="400" />
 
 
 26/11/2024
