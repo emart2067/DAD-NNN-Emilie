@@ -121,10 +121,18 @@ https://editor.p5js.org/emart2067/full/RtUamDa8cJ
 https://editor.p5js.org/emart2067/full/Kpi6pT2xF
 https://editor.p5js.org/emart2067/full/S-LuYrpSN
 
-25/11/2024
+25/11/2024 > 28/11/2024
 
 =>Création de nouveaux visuels 3D sur P5.js.
-Graceful jet
+=>Participation à une exposition collective : ESAD-DADA 
+=>Présentation des différents visuels 3D sous forme de trois séries réalisées au plotter, peinture en spray.
+=>Création de musiques instrumentale prompté sur SUNO.
+
+26/11/2024
+
+=>Création de nouveaux visuels 3D sur P5.js.
+https://editor.p5js.org/emart2067/full/cFnGKm47c
+
 
 
 
