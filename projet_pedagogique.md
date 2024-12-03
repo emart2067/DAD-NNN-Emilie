@@ -149,8 +149,8 @@ https://editor.p5js.org/emart2067/full/cFnGKm47c
 <img width="706" alt="Capture d’écran 2024-12-03 à 09 34 39" src="https://github.com/user-attachments/assets/21278f73-e102-4a52-a8c1-7a9089241852">
 <img width="706" alt="Capture d’écran 2024-12-03 à 09 35 24" src="https://github.com/user-attachments/assets/da0695f3-75e1-48e7-92ba-3dbab6286730">
 <img width="706" alt="Capture d’écran 2024-12-03 à 09 35 30" src="https://github.com/user-attachments/assets/4eca0b08-1343-4993-bf75-7dd1eda912fa">
-<img width="535" alt="Capture d’écran 2024-12-02 à 09 12 38" src="https://github.com/user-attachments/assets/48f12107-b06a-4918-a28b-1da459f581bd">
-<img width="535" alt="Capture d’écran 2024-11-28 à 14 24 37" src="https://github.com/user-attachments/assets/b68a196c-d6f1-4bb9-b423-08ceeaaf9af1">
+<img width="435" alt="Capture d’écran 2024-12-02 à 09 12 38" src="https://github.com/user-attachments/assets/48f12107-b06a-4918-a28b-1da459f581bd">
+<img width="435" alt="Capture d’écran 2024-11-28 à 14 24 37" src="https://github.com/user-attachments/assets/b68a196c-d6f1-4bb9-b423-08ceeaaf9af1">
 
 
 
