@@ -140,6 +140,15 @@ https://emart2067.github.io/vibration_4/
 =>Création de nouveaux visuels 3D sur P5.js.
 https://editor.p5js.org/emart2067/full/cFnGKm47c
 
+28/11/2024
 
+=>Création d'un nouveau projet sur TouchDesigner en cohérence avec le sujet de recherche de Anne-Sophie : Comment requestionner notre interprétation des images à travers des logiciels sonores ?
+
+>Prélèvement des données du son pour créer une courbe modifiant le flux des images.
+
+<img width="786" alt="Capture d’écran 2024-12-03 à 09 34 39" src="https://github.com/user-attachments/assets/21278f73-e102-4a52-a8c1-7a9089241852">
+<img width="806" alt="Capture d’écran 2024-12-03 à 09 35 24" src="https://github.com/user-attachments/assets/da0695f3-75e1-48e7-92ba-3dbab6286730">
+<img width="250" alt="Capture d’écran 2024-12-03 à 09 35 30" src="https://github.com/user-attachments/assets/4eca0b08-1343-4993-bf75-7dd1eda912fa">
+<img width="535" alt="Capture d’écran 2024-12-02 à 09 12 38" src="https://github.com/user-attachments/assets/48f12107-b06a-4918-a28b-1da459f581bd">
 
 
