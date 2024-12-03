@@ -157,6 +157,7 @@ https://editor.p5js.org/emart2067/full/cFnGKm47c
 =>Création d'une série de polaroÏdes à partir des visuels éffectuées sur TouchDesigner.
 
 Les visuels sont modifiés à partir d'un autre projet TouchDesigner.
+<img width="706" alt="Capture d’écran 2024-12-03 à 14 29 27" src="https://github.com/user-attachments/assets/1d1c48a4-2627-44e8-89d2-4c7df39159a9">
 
 <img width="235" alt="3D492265-A87A-47D5-A1B2-EDE12B817958 2" src="https://github.com/user-attachments/assets/6e9a7788-1951-4290-a8e7-b5388eb314d7">
 <img width="235" alt="5B73B206-E8B3-48C4-AD75-4CD07DB3113D 2" src="https://github.com/user-attachments/assets/2ca1e201-32f7-46de-945e-91538078bbd5">
