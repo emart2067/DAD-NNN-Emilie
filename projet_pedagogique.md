@@ -36,8 +36,22 @@ Projet et Thématique de Recherche
 Projet 1
 
 Sujet de Projet
-Titre du projet : 
-Description du projet (environ 150 mots) :
+Titre du projet : Visualisation sonore et mise en espace du son à partir de visuels 3D réalisés sur P5.js. SOUND BOUNCING VISION
+
+Description du projet (environ 150 mots) : 
+Traduction d’un univers sonore en une expérience visuelle où le son devient une matière palpable pour l’œil. En associant des fréquences, des rythmes et des intensités à des formes 3D, l'objectif est de rendre l'invisible visible et créer une nouvelle manière de percevoir la musique ou les environnements sonores.
+
+Cette visualisation sonore repose sur des concepts mêlant esthétique et technologie. À travers l'utilisation d’algorithmes et d’outils interactifs comme P5.js et TouchDesigner.
+En somme, ce projet est une invitation à redécouvrir le son non seulement comme une onde, mais comme une œuvre visuelle en perpétuelle transformation.
+La création des visuels est cadré par plusieurs règles : la forme doit être sphérique et le rendu monochrome. 
+
+Projet 2
+
+Sujet de Projet
+Titre du projet : Comment requestionner notre interprétation des images à travers des logiciels sonores ?
+
+Description du projet (environ 150 mots) : Modification de photographies négatives à l'aide de deux programmes réalisés sur Touchdesigner. Le premier modifie la photographie grâce à une courbe réactive au son. Chaque coordonnéees créer sur la courbe est basées sur des données sonores. Le deuxième permet une projection 3D linéaire d'une prise d'écran du premier programme. Le résultat finale est présenté sous forme de polaroïd. L'objectif est de modifier complètement les images pour les rendre abstraites en permettant une réinterprétation de celles-ci. On peut lire à travers les visuels, des paysages, des formes. Le polaroïd permet l'idée d'avoir quelque chose de tangible, de physique au toucher. C'est aussi une manière de figer à un insatnt T un visuel en constante déformation.  
+
 
 Thématiques de Recherche
 Thématiques que vous souhaitez explorer : Comment créer des expériences contemplatives musicales ? 
@@ -154,7 +168,7 @@ https://editor.p5js.org/emart2067/full/cFnGKm47c
 
 30/11/2024
 
-=>Création d'une série de polaroÏdes à partir des visuels éffectuées sur TouchDesigner.
+=>Création d'une série de polaroÏds à partir des visuels éffectuées sur TouchDesigner.
 
 Les visuels sont modifiés à partir d'un autre projet TouchDesigner.
 <img width="706" alt="Capture d’écran 2024-12-03 à 14 29 27" src="https://github.com/user-attachments/assets/1d1c48a4-2627-44e8-89d2-4c7df39159a9">
