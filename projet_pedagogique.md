@@ -184,6 +184,16 @@ Les visuels sont modifiés à partir d'un autre projet TouchDesigner.
 <img width="235" alt="E0760A1D-3AE4-4468-B2B6-BD135DAACBE9 2" src="https://github.com/user-attachments/assets/ae0bb2af-e1fc-4eda-8d45-ef34c5f03177">
 <img width="235" alt="IMG_3224 2" src="https://github.com/user-attachments/assets/66d59fcc-5f80-4443-bfd4-2cf338cbd856">
 
+03/12/2024
+
+=>Contributions aux ressources collectives.
+
+10/12/2024
+
+=>Aide sur Touchdesigner pour Bastien => Utilisation d'un movie device in pour résoudre un problème de caméra. 
+Aide de code sur P5.js pour le projet de dessin et reconnaissance des doigts de Anne-Sophie. 
+https://editor.p5js.org/emart2067/full/wgJmAcI02 
+
 
 
 
