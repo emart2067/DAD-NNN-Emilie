@@ -76,6 +76,8 @@ Actions
 Contribution à un Projet d'Autre Étudiant
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) :
 Aide sur Touchdesigner pour Bastien => Utilisation d'un movie device in pour résoudre un problème de caméra. 
+Aide de code sur P5.js pour le projet de dessin et reconnaissance des doigts de Anne-Sophie. 
+https://editor.p5js.org/emart2067/full/wgJmAcI02 
 
 CRÉATION D'UN SUJET DE RECHERCHE
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
