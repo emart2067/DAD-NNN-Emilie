@@ -80,7 +80,8 @@ CRÉATION D'UN SUJET DE RECHERCHE
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
 
 Participation à un Sujet de Recherche
-// Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? :
+// Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? : Comment requestionner notre interprétation des images à travers des logiciels sonores ? Le sujet de recherche de Anne-Sophie m'intéresse car je travaille actullement sur l'image et la déformation de notre percéption visuel. 
+
 
 Contributions aux ressources
 Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
