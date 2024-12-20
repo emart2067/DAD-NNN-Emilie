@@ -197,22 +197,25 @@ https://editor.p5js.org/emart2067/full/wgJmAcI02
 20/12/2024
 
 =>Création de visuels intéractifs sur TouchDesigner
-<img width="866" alt="Capture d’écran 2024-12-20 à 09 40 06" src="https://github.com/user-attachments/assets/d92c9738-f087-47b5-b3b1-8872560aa150" />
+<img width="915" alt="Capture d’écran 2024-12-20 à 09 40 06" src="https://github.com/user-attachments/assets/d92c9738-f087-47b5-b3b1-8872560aa150" />
 <img width="915" alt="Capture d’écran 2024-12-20 à 09 40 30" src="https://github.com/user-attachments/assets/38d894b7-0405-4d4a-942d-efc751bc579c" />
 <img width="313" alt="Capture d’écran 2024-12-20 à 09 41 55" src="https://github.com/user-attachments/assets/7ed68b4b-e8be-43d3-bf2e-d3e686636b26" />
 <img width="313" alt="Capture d’écran 2024-12-20 à 09 41 34" src="https://github.com/user-attachments/assets/953ac950-b516-4d48-8558-cc629fb7ee48" />
 <img width="313" alt="Capture d’écran 2024-12-20 à 10 02 28" src="https://github.com/user-attachments/assets/b91f8cc8-b633-4040-9597-c20034900536" />
 <img width="955" alt="Capture d’écran 2024-12-20 à 10 02 55" src="https://github.com/user-attachments/assets/bb3012ff-ac96-4c8a-96e5-295fbe9a6003" />
-<img width="989" alt="Capture d’écran 2024-12-20 à 10 05 48" src="https://github.com/user-attachments/assets/b0a8ea44-dad5-4dd9-a1b6-ef017488d516" />
+<img width="955" alt="Capture d’écran 2024-12-20 à 10 05 48" src="https://github.com/user-attachments/assets/b0a8ea44-dad5-4dd9-a1b6-ef017488d516" />
 
 
 
 
 Planning semaine intensive : 
 
-Lundi 
-Mardi
-Mercredi 
+Traitement vidéo avec différents modificateurs créés sur TouchDesigner. 
+
+>Choix des fragments vidéos
+>placements des modificateurs TouchDesigner
+>montage 
+
 
 
 
