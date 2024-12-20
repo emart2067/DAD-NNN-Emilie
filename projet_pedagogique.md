@@ -212,9 +212,9 @@ Planning semaine intensive :
 
 Traitement vidéo avec différents modificateurs créés sur TouchDesigner. 
 
->Choix des fragments vidéos
->placements des modificateurs TouchDesigner
->montage 
+Choix des fragments vidéos
+placements des modificateurs TouchDesigner
+montage 
 
 
 
