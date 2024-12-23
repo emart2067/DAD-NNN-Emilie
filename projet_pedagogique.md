@@ -205,6 +205,13 @@ https://editor.p5js.org/emart2067/full/wgJmAcI02
 <img width="955" alt="Capture d’écran 2024-12-20 à 10 02 55" src="https://github.com/user-attachments/assets/bb3012ff-ac96-4c8a-96e5-295fbe9a6003" />
 <img width="955" alt="Capture d’écran 2024-12-20 à 10 05 48" src="https://github.com/user-attachments/assets/b0a8ea44-dad5-4dd9-a1b6-ef017488d516" />
 
+23/12/2024
+
+=>Création d'un modificateur d'image sur TouchDesigner
+<img width="561" alt="Capture d’écran 2024-11-06 à 14 13 18" src="https://github.com/user-attachments/assets/0ee60739-dc6d-4854-9717-9cea8a8d1ece" />
+<img width="561" alt="Capture d’écran 2024-11-06 à 13 50 48" src="https://github.com/user-attachments/assets/10b9521e-a16e-4dae-bc71-5c9c1e6d22cf" />
+<img width="955" alt="Capture d’écran 2024-12-23 à 17 10 12" src="https://github.com/user-attachments/assets/38273651-686b-4c64-b281-31e2246bc965" />
+
 
 
 
