@@ -230,12 +230,21 @@ Traitement vidéo avec différents modificateurs créés sur TouchDesigner.
 - Impressions
 - forme finale
 
+Gravure laser de fichiers svg d'affiches publicitaires abstraites sur différents fragments. (voir photos croquis préparatoire) 
+![![IMG_3462](https://github.com/user-attachments/assets/a1ae50a2-8b71-4a99-8b18-56f7b11e2b5b)
+
+<img width="561" alt="Capture d’écran 2025-01-06 à 11 21 42" src="https://github.com/user-attachments/assets/5294146a-0153-463b-8d40-648e158fced1" />
+
+IMG_3477](https://github.com/user-attachments/assets/9946fa2b-f20c-4713-9a2b-e5baf79f4181)
+
 06/01/2025
 
 =>Création vidéo à partir d'une chorégraphie abstraite "AMA".
 https://youtu.be/quc7wBf8Yf4 
 
 =>Impressions images leporello 
+
+=>Rendez-vous Stephane Detrez gravure laser (15h - 17h) 
 
 
 
