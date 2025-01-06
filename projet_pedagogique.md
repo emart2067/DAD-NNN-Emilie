@@ -222,9 +222,20 @@ Traitement vidéo avec différents modificateurs créés sur TouchDesigner.
 
 - Choix des fragments vidéos
 - placements des modificateurs TouchDesigner
-- montage 
+- montage
 
+Édition leporello sur des photographies de nuit modifié sur TouchDesigner.
 
+- Création images
+- Impressions
+- forme finale
+
+06/01/2025
+
+=>Création vidéo à partir d'une chorégraphie abstraite "AMA".
+https://youtu.be/quc7wBf8Yf4 
+
+=>Impressions images leporello 
 
 
 
