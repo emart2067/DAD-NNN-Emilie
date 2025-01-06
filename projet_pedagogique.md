@@ -52,6 +52,17 @@ Titre du projet : Comment requestionner notre interprétation des images à trav
 
 Description du projet (environ 150 mots) : Modification de photographies négatives à l'aide de deux programmes réalisés sur Touchdesigner. Le premier modifie la photographie grâce à une courbe réactive au son. Chaque coordonnéees créer sur la courbe est basées sur des données sonores. Le deuxième permet une projection 3D linéaire d'une prise d'écran du premier programme. Le résultat finale est présenté sous forme de polaroïd. L'objectif est de modifier complètement les images pour les rendre abstraites en permettant une réinterprétation de celles-ci. On peut lire à travers les visuels, des paysages, des formes. Le polaroïd permet l'idée d'avoir quelque chose de tangible, de physique au toucher. C'est aussi une manière de figer à un insatnt T un visuel en constante déformation.  
 
+Projet 3
+
+Sujet de Projet
+Titre du projet : Comment modifier notre percéption d'un environnement ?
+
+Description du projet (environ 150 mots) : Interprétation de "AMA - a short film by Julie Gautier" sur TouchDesigner.
+Dans cet espace fluide et indéfini, l’eau devient la toile d’une expression corporelle abstraite. La chorégraphie naît de la rencontre entre le poids et l’apesanteur, entre l’effort et la grâce. Chaque mouvement est une exploration de la résistance de l’eau, de sa caresse et de sa profondeur, où le corps danse en harmonie avec cet élément changeant.
+
+L’objectif n’est pas de raconter une histoire linéaire, mais de susciter des émotions et des impressions, comme des vagues qui se forment et se dissipent. Cette chorégraphie cherche à éveiller une réflexion sur notre rapport à l’eau : élément vital, mystique, et libérateur. Dans ce cadre unique, le spectateur est invité à plonger dans un voyage sensoriel où le langage du corps transcende les mots et devient poésie liquide. 
+
+
 
 Thématiques de Recherche
 Thématiques que vous souhaitez explorer : Comment créer des expériences contemplatives musicales ? 
