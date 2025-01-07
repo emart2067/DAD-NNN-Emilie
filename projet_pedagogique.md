@@ -250,7 +250,7 @@ Gravure laser de fichiers svg d'affiches publicitaires abstraites sur différent
 06/01/2025
 
 =>Création vidéo à partir d'une chorégraphie abstraite "AMA".
-https://youtu.be/quc7wBf8Yf4 
+https://youtu.be/c1aU7OrOiPk
 
 =>Impressions images leporello 
 
