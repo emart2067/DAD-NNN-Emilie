@@ -245,9 +245,7 @@ Gravure laser de fichiers svg d'affiches publicitaires abstraites sur différent
 <img width="361" alt="Capture d’écran 2025-01-06 à 11 47 25" src="https://github.com/user-attachments/assets/ef4b95ca-8a87-4890-8145-1e39d87731f6" />
 <img width="361" alt="Capture d’écran 2025-01-06 à 11 21 42" src="https://github.com/user-attachments/assets/5294146a-0153-463b-8d40-648e158fced1" />
 <img width="361" alt="Capture d’écran 2025-01-06 à 11 50 57" src="https://github.com/user-attachments/assets/3aef7522-3be4-4c3d-abc9-adc3de6221c8" />
-<img width="361" alt="Capture d’écran 2025-01-06 à 11 52 10" src="https://github.com/user-attachments/assets/7549e012-ccf2-4e5d-9a52-4fef6c0c9076" />
-
-
+<img width="361" alt="Capture d’écran 2025-01-07 à 09 18 18" src="https://github.com/user-attachments/assets/6ee45047-a697-4b3c-86f2-b0fbfa52ef94" />
 
 06/01/2025
 
@@ -257,6 +255,12 @@ https://youtu.be/quc7wBf8Yf4
 =>Impressions images leporello 
 
 =>Rendez-vous Stephane Detrez gravure laser (15h - 17h) 
+=>Début découpe papier affiches
+<img width="961" alt="Capture d’écran 2025-01-07 à 09 20 34" src="https://github.com/user-attachments/assets/c80004ba-6844-46e3-9401-092fd4fecf16" />
+
+07/01/2025
+
+=>Découpe
 
 
 
