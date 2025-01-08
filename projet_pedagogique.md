@@ -267,6 +267,7 @@ https://youtu.be/c1aU7OrOiPk
 
 =>fichier pdf références
 [refs.pdf](https://github.com/user-attachments/files/18345789/refs.pdf)
+=>accrochage 
 
 
 
