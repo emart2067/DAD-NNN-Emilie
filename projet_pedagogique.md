@@ -260,7 +260,14 @@ https://youtu.be/c1aU7OrOiPk
 
 07/01/2025
 
-=>Découpe
+=>Préparation fichier découpe laser.
+=>Modification vidéo 
+
+08/01/2025
+
+=>
+
+
 
 
 
