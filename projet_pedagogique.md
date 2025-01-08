@@ -265,7 +265,10 @@ https://youtu.be/c1aU7OrOiPk
 
 08/01/2025
 
-=>
+=>fichier pdf références
+[refs.pdf](https://github.com/user-attachments/files/18345789/refs.pdf)
+
+
 
 
 
