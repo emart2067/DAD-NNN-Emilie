@@ -276,6 +276,12 @@ https://youtu.be/c1aU7OrOiPk
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/b919e239-c7cc-4d0e-8d06-89fab937ba50" /> <img width="300" alt="image2" src="https://github.com/user-attachments/assets/c585d8a0-9b3d-4416-a1da-e6c94147d96f" /> <img width="300" alt="image3" src="https://github.com/user-attachments/assets/3d08b424-c1c2-4734-9609-fbb2ff475700" />
 
+03/02/2025
+
+=>Tests de sublimation textile sur différentes mailles de tulles.
+
+<img width="300" alt="IMG_3652" src="https://github.com/user-attachments/assets/2a2e2658-f735-4cec-832a-133ee32d03ae" /> <img width="300" alt="IMG_3653" src="https://github.com/user-attachments/assets/cabc56a9-d29a-44ab-bc15-34ecb24f63ac" /> <img width="300" alt="IMG_3654" src="https://github.com/user-attachments/assets/afb92f75-a176-4f91-9674-bc660f2aa634" />
+
 
 
 
