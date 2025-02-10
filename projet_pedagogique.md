@@ -273,7 +273,10 @@ https://youtu.be/c1aU7OrOiPk
 07/02/2025
 
 =>Fichiers sublimation textile 
+
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/b919e239-c7cc-4d0e-8d06-89fab937ba50" />
+<img width="450" alt="image2" src="(https://github.com/user-attachments/assets/fe1aa8c3-8a93-49bc-a4a1-cb4d6f85ef23" />
+<img width="450" alt="image3" src="https://github.com/user-attachments/assets/3d08b424-c1c2-4734-9609-fbb2ff475700" />
 
 
 
