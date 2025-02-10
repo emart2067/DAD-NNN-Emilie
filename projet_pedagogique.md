@@ -270,6 +270,14 @@ https://youtu.be/c1aU7OrOiPk
 
 =>accrochage 
 
+07/02/2025
+
+=>Fichiers sublimation textile 
+
+![image](https://github.com/user-attachments/assets/bf7a7462-c502-4c1c-bf18-4b54a65dad5e)
+![image2](https://github.com/user-attachments/assets/ddb4792e-bef3-481a-aa13-8bdc3b66f8fe)
+![image3](https://github.com/user-attachments/assets/59793eb1-75a8-4b1a-8ae5-4f7e25ba4f9d)
+
 
 
 
