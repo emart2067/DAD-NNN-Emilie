@@ -274,7 +274,7 @@ https://youtu.be/c1aU7OrOiPk
 
 =>Fichiers sublimation textile 
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/b919e239-c7cc-4d0e-8d06-89fab937ba50" /> <img width="350" alt="image2" src="https://github.com/user-attachments/assets/c585d8a0-9b3d-4416-a1da-e6c94147d96f" /> <img width="350" alt="image3" src="https://github.com/user-attachments/assets/3d08b424-c1c2-4734-9609-fbb2ff475700" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b919e239-c7cc-4d0e-8d06-89fab937ba50" /> <img width="300" alt="image2" src="https://github.com/user-attachments/assets/c585d8a0-9b3d-4416-a1da-e6c94147d96f" /> <img width="300" alt="image3" src="https://github.com/user-attachments/assets/3d08b424-c1c2-4734-9609-fbb2ff475700" />
 
 
 
